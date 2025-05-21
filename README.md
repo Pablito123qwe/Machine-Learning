@@ -9,7 +9,7 @@
 ✅ [1,2](https://github.com/Pablito123qwe/Machine-Learning/commit/32cb45011904dd048615c671bcd84d051fee809d)
 
 ## Task5
-✅
+✅ [1,2](https://github.com/Pablito123qwe/Machine-Learning/commit/20bbb8752b2660a298ec694819b5356bb6d4158c)
 
 ## Task6
 ✅ [1,2,3,4,5](https://github.com/Pablito123qwe/Machine-Learning/commit/be479ccb81951dd8d51da2a82359899e59de4b64)
